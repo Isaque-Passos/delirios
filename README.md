@@ -1,6 +1,6 @@
 # Delírios — Atlética de Biomedicina do UNIARAXÁ
 
-Primeira proposta de site institucional com agenda e prévia de coleção. Site estático em `dist/`, sem dependências de build.
+Primeira proposta de site institucional com agenda e prévia de coleção. Site estático na raiz do projeto, sem dependências de build.
 
 ## Executar localmente
 
